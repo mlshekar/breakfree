@@ -1,4 +1,4 @@
-# breakfree
+# Breakfree
 Android Mobile app for the open source Espocrm platform
 
 # License
